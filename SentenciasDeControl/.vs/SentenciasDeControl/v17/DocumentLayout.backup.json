@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\SentenciasDeControl\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\C#Microsoft\\SentenciasDeControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{003BEA95-0C22-4254-90A9-EB8E61298E2E}|TomaDeDecisionesIf\\TomaDeDecisionesIf.csproj|c:\\users\\usuario\\source\\repos\\sentenciasdecontrol\\tomadedecisionesif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{003BEA95-0C22-4254-90A9-EB8E61298E2E}|TomaDeDecisionesIf\\TomaDeDecisionesIf.csproj|solutionrelative:tomadedecisionesif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC999C6A-DCE3-415A-9DD0-5D104A60CD4F}|If\u0026Else\\If\u0026Else.csproj|c:\\users\\usuario\\onedrive\\escritorio\\c#microsoft\\sentenciasdecontrol\\if\u0026else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC999C6A-DCE3-415A-9DD0-5D104A60CD4F}|If\u0026Else\\If\u0026Else.csproj|solutionrelative:if\u0026else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\SentenciasDeControl\\TomaDeDecisionesIf\\Program.cs",
-              "RelativeDocumentMoniker": "TomaDeDecisionesIf\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\SentenciasDeControl\\TomaDeDecisionesIf\\Program.cs*",
-              "RelativeToolTip": "TomaDeDecisionesIf\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\C#Microsoft\\SentenciasDeControl\\If\u0026Else\\Program.cs",
+              "RelativeDocumentMoniker": "If\u0026Else\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\C#Microsoft\\SentenciasDeControl\\If\u0026Else\\Program.cs*",
+              "RelativeToolTip": "If\u0026Else\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:27:54.024Z",
+              "WhenOpened": "2024-09-05T21:42:24.898Z",
               "EditorCaption": ""
             }
           ]

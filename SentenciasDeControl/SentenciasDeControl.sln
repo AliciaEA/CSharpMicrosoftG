@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomaDeDecisionesIf", "TomaD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If&Else", "If&Else\If&Else.csproj", "{CC999C6A-DCE3-415A-9DD0-5D104A60CD4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucles", "BuclesWhile\Bucles.csproj", "{343F6B37-B46A-49A9-B1F5-65914F83906A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CC999C6A-DCE3-415A-9DD0-5D104A60CD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC999C6A-DCE3-415A-9DD0-5D104A60CD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC999C6A-DCE3-415A-9DD0-5D104A60CD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343F6B37-B46A-49A9-B1F5-65914F83906A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343F6B37-B46A-49A9-B1F5-65914F83906A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343F6B37-B46A-49A9-B1F5-65914F83906A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343F6B37-B46A-49A9-B1F5-65914F83906A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
